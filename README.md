@@ -1,6 +1,6 @@
 # Hi 👋! I'm Igor.
 
-I'm an expert copy paster from [stackoverflow](https://stackoverflow.com/users/9945307/nicetomytyuk).
+I'm a [stackoverflow](https://stackoverflow.com/users/9945307/nicetomytyuk) copy paste expert.
 
 I've started my developer career when i was 16 during a school intership, the company just told me "dude we need an android app but noone here never made it", so i've started to look for docs, youtube and obviously stackoverflow, in a couple of months i've released the first version of the app and damn it was even working, nowadays i still mantain that app as it's used now by lot of clients, after 5 years i almost refactored the whole app and it's performance increased a lot in memory usage terms and in crash free users %.
 
