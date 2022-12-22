@@ -15,7 +15,7 @@ Some of my biggest projects are made in:
 - Angular 12 + Node.js + MongoDB
 - ASP.NET + .NET Core 3.1 + JavaScript
 - ASP.NET + .NET Framework 4.8 + JQuery + MySQL
-- WonForm + .NET Framework 3.5
+- WinForm + .NET Framework 3.5
 
 ## Today
 
