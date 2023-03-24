@@ -4,7 +4,7 @@ I'm a [stackoverflow](https://stackoverflow.com/users/9945307/nicetomytyuk) copy
 
 I developed an interest in IT when was six, at this age I get my first computer and just get into video games, and hardware stuff as if I wanted to play more recent games I had to study how a computer was made and upgrade it, then at the age of twelve, I have got the first experience with PHP and PHPMyAdmin, at sixteen I’ve started my first school internship where I started to build my first Android application, at 18 I've developed several software and the Android application I've started to build at sixteen at the time was used by more than 100 devices and nowadays it reached more than 800 users.
 
-**What did I develop during my career?.**
+**What did I develop during my career?**
 
 During my career i've learnt lot of technologies, developed different websites, REST API services and even WinForm applications.
 
