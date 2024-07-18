@@ -16,7 +16,7 @@ I'm particularly proud of projects involving:
 
 - Android Development with Java and Kotlin
 - Full-stack Development with Angular, .NET, and MySQL
-- MEAN Stack Development using Angular, Node.js, and MongoDB
+- MEAN Stack Development using Angular, Node.js, Express, and MongoDB
 - Web Development with ASP.NET, .NET Core 3.1, and JavaScript
 - Legacy Support & Development in ASP.NET with .NET Framework 4.8, JQuery, and MySQL
 - Desktop Applications using WinForm and .NET Framework 3.5
